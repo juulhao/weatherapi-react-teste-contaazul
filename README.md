@@ -23,4 +23,3 @@ Parar gerar Builda
 ### `npm run eject`
  Para ejectar aplicação# contaazul-front-test
 # conta-azul-weather
-# weatherapi-react-teste-contaazul
