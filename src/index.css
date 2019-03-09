@@ -1,0 +1,8 @@
+body {
+  margin: 0;
+  font-family:  "Helvetica Neue", "Arial";
+  background: #F1F1F1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
